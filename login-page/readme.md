@@ -7,9 +7,9 @@ This project aims to create a simple login system that allows users to log in wi
 **Project Development**<br>
 There are several ways to further develop this project:
 
-**Database Integration:**You can use a database to securely store user information.
-**Security Enhancements:** You can improve system security by adding encryption or two-factor authentication.
-**User Interface Enhancements:** You can add a graphical user interface to enhance the user experience.
+**Database Integration:**You can use a database to securely store user information.<br>
+**Security Enhancements:** You can improve system security by adding encryption or two-factor authentication.<br>
+**User Interface Enhancements:** You can add a graphical user interface to enhance the user experience.<br>
 
 **Contributing to the Project**<br>
 I'm open to any contributions! If you want to improve or fix bugs in this project, please submit a pull request.
