@@ -1,5 +1,5 @@
 
-Hello There! (Totally not a star wars reference)
+ Hello There! (Totally not a star wars reference)
 
 **Welcome to the repository for my Python projects! This repository serves as a central location for me to publish and share the various Python projects I've worked on. Whether you're here to explore, contribute, or collaborate, this README will help you get started.**
 
@@ -9,7 +9,7 @@ Hello There! (Totally not a star wars reference)
 Clone the project
 
 ```bash
-  git clone https://github.com/capthelentil/python-projects
+  git clone https://link-to-project
 ```
 
 Go to the project directory
@@ -25,10 +25,8 @@ Install requirements
 ```
 
   
-## Licensing
+## Contribution
 
-Each project in this repository may have its own license specified in its README file. Make sure to check the licensing terms for each project before using or contributing to it.
-
-Thank you for exploring my Python projects! If you have any questions or need assistance, feel free to contact me. Enjoy coding!
+Contributions are welcome! If you would like to contribute to any project in this repository, do not think twice.
 
   
