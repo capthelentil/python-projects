@@ -9,7 +9,7 @@
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/capthelentil/python-projects
 ```
 
 Go to the project directory
