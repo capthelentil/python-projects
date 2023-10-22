@@ -25,7 +25,7 @@ Install requirements
 ```
 
   
-## Lisans
+## Licensing
 
 Each project in this repository may have its own license specified in its README file. Make sure to check the licensing terms for each project before using or contributing to it.
 
