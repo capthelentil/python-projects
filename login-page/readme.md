@@ -1,15 +1,35 @@
-**Simple Login System**<br>
-This project is an attempt to bring to life the very first idea that came to my mind when I started programming: creating a login system. Below, you can find general information on how this project was created and how to use it.
+# Simple User Authentication System
 
-**Project Description** <br>
-This project aims to create a simple login system that allows users to log in with a username and password. Users can register, and after that, they can log in. After logging in, the user's name will be displayed in a welcome message.
+This simple Python application implements a basic authentication system allowing users to register and log in. It uses a basic example where usernames and passwords are stored in memory using a simple dictionary.
 
-**Project Development**<br>
-There are several ways to further develop this project:
+## Usage
 
-**Database Integration:** You can use a database to securely store user information.<br>
-**Security Enhancements:** You can improve system security by adding encryption or two-factor authentication.<br>
-**User Interface Enhancements:** You can add a graphical user interface to enhance the user experience.<br>
+To run the program, navigate to the terminal or command prompt and use the command `python your_file_name.py`.
 
-**Contributing to the Project**<br>
-I'm open to any contributions! If you want to improve or fix bugs in this project, please submit a pull request.
+When the program starts, it displays a menu with the following options:
+
+1. **Register**: Sign up by entering a username and password.
+2. **Login**: Log in with a registered username and password.
+3. **Exit**: Exit the program.
+
+Each option performs the respective operation based on the information entered by the user.
+
+## Security
+
+- Currently, passwords are stored directly as plain text. For a real-world application, additional measures should be taken to securely store and authenticate passwords.
+- Basic error checking is implemented on user inputs, but for a real application, more comprehensive error checking and user-friendly messages should be added.
+
+## Development
+
+- You can enhance code readability and maintainability by adding functions or classes.
+- Consider using encryption or hashing algorithms for password security.
+
+## Contributing
+
+1. Fork this project (click the "Fork" button in the upper right).
+2. Add new features or fix bugs.
+3. Submit a pull request with your changes.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
